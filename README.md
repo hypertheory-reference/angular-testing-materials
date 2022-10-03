@@ -17,6 +17,9 @@
         - You get 15 lessons for free - worth the cost for the rest, IMO. 
         - (I didn't create this, or get any kickbacks)
 
+- Git and Miscellaneous Goodness
+    - [Scott Hanselman's Youtube of Computer Stuff they Didn't Teach You](https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr)
+
 - Jeff Stuff
     - My config files and stuff: [DotFiles](https://github.com/hypertheory-reference/dot-files)
     - My Repo for this Course: [Coming Soon]()
